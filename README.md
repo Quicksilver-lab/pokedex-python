@@ -4,7 +4,7 @@ Bem-vindo ao projeto **Pokedex-Python**! 🐱‍👤 Este projeto é um visualiz
 
 ## 🌐 Languages
 
-- [English Version](README-ENGLISH.md)
+- [English Version](English-Version-of-Programe/README-ENGLISH.md)
 - [Versão em Português](README.md)
 
 ## 📋 Visão Geral do Projeto
